@@ -18,7 +18,3 @@ linux_root_volume_size            = 20
 linux_root_volume_type            = "gp2"
 linux_data_volume_size            = 10
 linux_data_volume_type            = "gp2"
-
-
-
-x
